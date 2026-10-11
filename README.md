@@ -17,9 +17,7 @@ omarchy-theme-install https://github.com/limehawk/omarchy-amber-oled-theme
 
 ## Wallpapers
 
-The background picker walks through them by style, one highlight from each below. The lava lamp is the default.
-
-![The lava lamp, the default wallpaper](screenshots/0010-lavalamp.png)
+The background picker walks through them by style, one highlight from each below. The lava lamp at the top is the default.
 
 Up close, at one screen pixel to one image pixel: the dither is the look. Fades break into single dots, so the grid and the gradient show at once.
 
@@ -89,18 +87,24 @@ The thumbnails are shrunk, so they read darker than the real thing; open any fil
 
 ## Palette
 
-![The palette: black, parchment, walnut ink, tube amber, vermilion, burnt orange, mustard, avocado, brass, smoke, clay, walnut](screenshots/palette.png)
+| | Role | Hex |
+| --- | --- | --- |
+| <img valign="middle" alt="#000000" src="https://readme-swatches.vercel.app/000000?style=round"/> | background | `#000000` |
+| <img valign="middle" alt="#e6d5b8" src="https://readme-swatches.vercel.app/e6d5b8?style=round"/> | foreground, parchment | `#e6d5b8` |
+| <img valign="middle" alt="#6b5d4a" src="https://readme-swatches.vercel.app/6b5d4a?style=round"/> | walnut ink | `#6b5d4a` |
+| <img valign="middle" alt="#ffa630" src="https://readme-swatches.vercel.app/ffa630?style=round"/> | accent, tube amber | `#ffa630` |
+| <img valign="middle" alt="#d4573b" src="https://readme-swatches.vercel.app/d4573b?style=round"/> | red, vermilion | `#d4573b` |
+| <img valign="middle" alt="#e07b39" src="https://readme-swatches.vercel.app/e07b39?style=round"/> | orange, burnt orange | `#e07b39` |
+| <img valign="middle" alt="#e3b341" src="https://readme-swatches.vercel.app/e3b341?style=round"/> | yellow, mustard | `#e3b341` |
+| <img valign="middle" alt="#9aa35a" src="https://readme-swatches.vercel.app/9aa35a?style=round"/> | green, avocado | `#9aa35a` |
+| <img valign="middle" alt="#a39a6e" src="https://readme-swatches.vercel.app/a39a6e?style=round"/> | cyan, brass | `#a39a6e` |
+| <img valign="middle" alt="#b0a08a" src="https://readme-swatches.vercel.app/b0a08a?style=round"/> | blue, smoke | `#b0a08a` |
+| <img valign="middle" alt="#c9876a" src="https://readme-swatches.vercel.app/c9876a?style=round"/> | magenta, clay | `#c9876a` |
+| <img valign="middle" alt="#9a6b43" src="https://readme-swatches.vercel.app/9a6b43?style=round"/> | brown, walnut | `#9a6b43` |
+
+Text on the background is 14.6:1 (WCAG AAA). Icons use Yaru-yellow.
 
 ![Terminal colours on a sample of Python and git output](screenshots/terminal.png)
-
-| | |
-|---|---|
-| background | `#000000` |
-| foreground | `#E6D5B8` parchment |
-| accent | `#FFA630` tube amber |
-| red / orange / yellow | `#D4573B` vermilion · `#E07B39` burnt orange · `#E3B341` mustard |
-| green / cyan / blue | `#9AA35A` avocado · `#A39A6E` brass · `#B0A08A` smoke |
-| magenta / brown | `#C9876A` clay · `#9A6B43` walnut |
 
 Chromium-based browsers take Omarchy's pure-black seed. Chrome builds its own dark palette from it, so its frame is Chrome's darkest grey rather than true black; a browser theme can't go further.
 
