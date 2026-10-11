@@ -1,0 +1,36 @@
+mode = "dark"
+
+# Warm tubes on a walnut amp. Amber is the only accent; everything else is parchment and walnut.
+accent = "#FFA630"
+selection = "#2E2112"
+muted = "#3A3026"
+
+# Window border: the same amber at 65%, so the 2px border reads as a warm hairline.
+hyprland_active_border = "rgba(FFA630A6)"
+
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#0E0B08"
+
+foreground = "#E6D5B8"
+dark_foreground = "#6B5D4A"
+light_foreground = "#A8977C"
+bright_foreground = "#F5EBD8"
+
+# Mid-century: vermilion, burnt orange, mustard, avocado, brass, smoke, clay, walnut
+red = "#D4573B"
+yellow = "#E3B341"
+orange = "#E07B39"
+green = "#9AA35A"
+cyan = "#A39A6E"
+blue = "#B0A08A"
+magenta = "#C9876A"
+brown = "#9A6B43"
+
+bright_red = "#E8775C"
+bright_yellow = "#F0C866"
+bright_green = "#B3BB78"
+bright_cyan = "#BDB487"
+bright_blue = "#C9BBA5"
+bright_magenta = "#DDA084"
