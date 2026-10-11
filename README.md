@@ -165,7 +165,7 @@ Mostly black. Knoxville at night: downtown and the Sunsphere across the river, a
 ![Drum lamp: Base dark against its light](screenshots/walls/3200-drumlamp.png)
 3200 · Drum lamp
 
-![Cat in the window: On the sill, against the glow](screenshots/walls/3210-catwindow.png)
+![Cat in the window: In profile, a lamp in the room](screenshots/walls/3210-catwindow.png)
 3210 · Cat in the window
 <!-- /walls:minimal -->
 </details>
