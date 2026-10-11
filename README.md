@@ -36,7 +36,7 @@ Starbursts, Sputniks and orbits in fine dotted strokes.
 ![Sputnik: Atom, amber nucleus](screenshots/walls/2020-sputnik.png)
 2020 · Sputnik
 
-![Starbursts: Atomic-age starbursts](screenshots/walls/2030-starbursts.png)
+![Starbursts: Two big bursts, one-dot rays](screenshots/walls/2030-starbursts.png)
 2030 · Starbursts
 
 ![Sunburst: A plain face ringed by rays](screenshots/walls/2040-sunburstclock.png)
@@ -219,7 +219,7 @@ Hi-fi gear and atomic-age lamps, lit like solid things.
 ![Globe lamp: Opal pendant, lit](screenshots/walls/1120-globelampdots.png)
 1120 · Globe lamp
 
-![Arc lamp: Marble base, steel arc](screenshots/walls/1130-arclamp.png)
+![Arc lamp: The Arco: marble block, steel arch](screenshots/walls/1130-arclamp.png)
 1130 · Arc lamp
 
 ![Desk fan: Chrome cage and blades](screenshots/walls/1140-deskfan.png)
