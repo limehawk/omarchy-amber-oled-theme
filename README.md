@@ -27,79 +27,79 @@ Up close, at one screen pixel to one image pixel: the dither is the look. Fades 
 
 Starbursts, Sputniks and orbits in fine dotted strokes.
 
-<img src="screenshots/2060-starshower.png" alt="Shooting stars across a night sky, one head amber" width="100%">
+<a href="backgrounds/2060-starshower.png"><img src="screenshots/2060-starshower.png" alt="Shooting stars across a night sky, one head amber" width="100%"></a>
 
 <details>
 <summary>All 23 line art pieces</summary>
 
 <!-- walls:line-art -->
-![Sputnik: Atom, amber nucleus](screenshots/walls/2020-sputnik.png)
+[![Sputnik: Atom, amber nucleus](screenshots/walls/2020-sputnik.png)](backgrounds/2020-sputnik.png)
 2020 · Sputnik
 
-![Starbursts: Two big bursts, one-dot rays](screenshots/walls/2030-starbursts.png)
+[![Starbursts: Two big bursts, one-dot rays](screenshots/walls/2030-starbursts.png)](backgrounds/2030-starbursts.png)
 2030 · Starbursts
 
-![Sunburst: A plain face ringed by rays](screenshots/walls/2040-sunburstclock.png)
+[![Sunburst: A plain face ringed by rays](screenshots/walls/2040-sunburstclock.png)](backgrounds/2040-sunburstclock.png)
 2040 · Sunburst
 
-![Constellation: Twinkles, one amber](screenshots/walls/2050-constellation.png)
+[![Constellation: Twinkles, one amber](screenshots/walls/2050-constellation.png)](backgrounds/2050-constellation.png)
 2050 · Constellation
 
-![Star shower: Shooting stars, amber head](screenshots/walls/2060-starshower.png)
+[![Star shower: Shooting stars, amber head](screenshots/walls/2060-starshower.png)](backgrounds/2060-starshower.png)
 2060 · Star shower
 
-![Big burst: One huge starburst](screenshots/walls/2070-bigburst.png)
+[![Big burst: One huge starburst](screenshots/walls/2070-bigburst.png)](backgrounds/2070-bigburst.png)
 2070 · Big burst
 
-![Spiral: Galaxy, amber core](screenshots/walls/2080-spiral.png)
+[![Spiral: Galaxy, amber core](screenshots/walls/2080-spiral.png)](backgrounds/2080-spiral.png)
 2080 · Spiral
 
-![Sparkle: Night sky, one amber twinkle](screenshots/walls/2090-sparkle.png)
+[![Sparkle: Night sky, one amber twinkle](screenshots/walls/2090-sparkle.png)](backgrounds/2090-sparkle.png)
 2090 · Sparkle
 
-![Antenna: Rabbit ears on a dome](screenshots/walls/2100-antenna.png)
+[![Antenna: Rabbit ears on a dome](screenshots/walls/2100-antenna.png)](backgrounds/2100-antenna.png)
 2100 · Antenna
 
-![Orbit: One electron, a small amber sun](screenshots/walls/2110-orbit1.png)
+[![Orbit: One electron, a small amber sun](screenshots/walls/2110-orbit1.png)](backgrounds/2110-orbit1.png)
 2110 · Orbit
 
-![Waveform: Stacked signal traces](screenshots/walls/2120-waveform.png)
+[![Waveform: Stacked signal traces](screenshots/walls/2120-waveform.png)](backgrounds/2120-waveform.png)
 2120 · Waveform
 
-![Mobile: Calder arms, hanging discs](screenshots/walls/2130-mobile.png)
+[![Mobile: Calder arms, hanging discs](screenshots/walls/2130-mobile.png)](backgrounds/2130-mobile.png)
 2130 · Mobile
 
-![Harmonograph: Two pendulums, out of tune](screenshots/walls/2140-harmonograph.png)
+[![Harmonograph: Two pendulums, out of tune](screenshots/walls/2140-harmonograph.png)](backgrounds/2140-harmonograph.png)
 2140 · Harmonograph
 
-![Solar system: Amber sun, tilted orbits](screenshots/walls/2150-solarsystem.png)
+[![Solar system: Amber sun, tilted orbits](screenshots/walls/2150-solarsystem.png)](backgrounds/2150-solarsystem.png)
 2150 · Solar system
 
-![Pendants: Three cone shades, amber bulbs](screenshots/walls/2160-pendants.png)
+[![Pendants: Three cone shades, amber bulbs](screenshots/walls/2160-pendants.png)](backgrounds/2160-pendants.png)
 2160 · Pendants
 
-![Saucer: Rim lights, dotted beam](screenshots/walls/2170-saucer.png)
+[![Saucer: Rim lights, dotted beam](screenshots/walls/2170-saucer.png)](backgrounds/2170-saucer.png)
 2170 · Saucer
 
-![Star trails: Circling Polaris, amber](screenshots/walls/2180-startrails.png)
+[![Star trails: Circling Polaris, amber](screenshots/walls/2180-startrails.png)](backgrounds/2180-startrails.png)
 2180 · Star trails
 
-![Radio tower: Rings from an amber beacon](screenshots/walls/2190-radiotower.png)
+[![Radio tower: Rings from an amber beacon](screenshots/walls/2190-radiotower.png)](backgrounds/2190-radiotower.png)
 2190 · Radio tower
 
-![Armillary: Rings round an amber sun](screenshots/walls/2200-armillary.png)
+[![Armillary: Rings round an amber sun](screenshots/walls/2200-armillary.png)](backgrounds/2200-armillary.png)
 2200 · Armillary
 
-![Firework: Dotted burst, amber core](screenshots/walls/2210-firework.png)
+[![Firework: Dotted burst, amber core](screenshots/walls/2210-firework.png)](backgrounds/2210-firework.png)
 2210 · Firework
 
-![Lighthouse: Beam over the water](screenshots/walls/2220-lighthouse.png)
+[![Lighthouse: Beam over the water](screenshots/walls/2220-lighthouse.png)](backgrounds/2220-lighthouse.png)
 2220 · Lighthouse
 
-![Big Dipper: Pointing to amber Polaris](screenshots/walls/2230-bigdipper.png)
+[![Big Dipper: Pointing to amber Polaris](screenshots/walls/2230-bigdipper.png)](backgrounds/2230-bigdipper.png)
 2230 · Big Dipper
 
-![Crescent: Moon, haze, one amber planet](screenshots/walls/2240-crescent.png)
+[![Crescent: Moon, haze, one amber planet](screenshots/walls/2240-crescent.png)](backgrounds/2240-crescent.png)
 2240 · Crescent
 <!-- /walls:line-art -->
 </details>
@@ -108,85 +108,85 @@ Starbursts, Sputniks and orbits in fine dotted strokes.
 
 Mostly black. Knoxville at night: downtown and the Sunsphere across the river, and an Omarchy billboard lit up on the bluff.
 
-<img src="screenshots/3122-knoxomarchy.png" alt="Knoxville at night with the Omarchy logo on a steel billboard in the foreground" width="100%">
+<a href="backgrounds/3122-knoxomarchy.png"><img src="screenshots/3122-knoxomarchy.png" alt="Knoxville at night with the Omarchy logo on a steel billboard in the foreground" width="100%"></a>
 
 <details>
 <summary>All 25 minimal pieces</summary>
 
 <!-- walls:minimal -->
-![CRT off: One dot, the last scanline](screenshots/walls/3010-crtoff.png)
+[![CRT off: One dot, the last scanline](screenshots/walls/3010-crtoff.png)](backgrounds/3010-crtoff.png)
 3010 · CRT off
 
-![Trace: Flat line, one blip](screenshots/walls/3020-trace.png)
+[![Trace: Flat line, one blip](screenshots/walls/3020-trace.png)](backgrounds/3020-trace.png)
 3020 · Trace
 
-![Grooves: A corner of an LP](screenshots/walls/3030-grooves.png)
+[![Grooves: A corner of an LP](screenshots/walls/3030-grooves.png)](backgrounds/3030-grooves.png)
 3030 · Grooves
 
-![Grille: Speaker holes, fading](screenshots/walls/3040-grille.png)
+[![Grille: Speaker holes, fading](screenshots/walls/3040-grille.png)](backgrounds/3040-grille.png)
 3040 · Grille
 
-![Ripple: One drop, rings fading](screenshots/walls/3050-ripple.png)
+[![Ripple: One drop, rings fading](screenshots/walls/3050-ripple.png)](backgrounds/3050-ripple.png)
 3050 · Ripple
 
-![Horizon: Half an amber sun at dusk](screenshots/walls/3060-horizon.png)
+[![Horizon: Half an amber sun at dusk](screenshots/walls/3060-horizon.png)](backgrounds/3060-horizon.png)
 3060 · Horizon
 
-![Comet: Lit head, thinning tail](screenshots/walls/3070-comet.png)
+[![Comet: Lit head, thinning tail](screenshots/walls/3070-comet.png)](backgrounds/3070-comet.png)
 3070 · Comet
 
-![Eclipse: Corona and one amber bead](screenshots/walls/3080-eclipse.png)
+[![Eclipse: Corona and one amber bead](screenshots/walls/3080-eclipse.png)](backgrounds/3080-eclipse.png)
 3080 · Eclipse
 
-![Dial arc: Corner ticks, amber pointer](screenshots/walls/3090-dialarc.png)
+[![Dial arc: Corner ticks, amber pointer](screenshots/walls/3090-dialarc.png)](backgrounds/3090-dialarc.png)
 3090 · Dial arc
 
-![Limb: A planet's lit edge](screenshots/walls/3100-limb.png)
+[![Limb: A planet's lit edge](screenshots/walls/3100-limb.png)](backgrounds/3100-limb.png)
 3100 · Limb
 
-![Smoke: Ember and drifting wisps](screenshots/walls/3110-smoke.png)
+[![Smoke: Ember and drifting wisps](screenshots/walls/3110-smoke.png)](backgrounds/3110-smoke.png)
 3110 · Smoke
 
-![Skyline: Lit towers across the water](screenshots/walls/3120-citylights.png)
+[![Skyline: Lit towers across the water](screenshots/walls/3120-citylights.png)](backgrounds/3120-citylights.png)
 3120 · Skyline
 
-![Knoxville, Omarchy: The Omarchy billboard on the bluff](screenshots/walls/3122-knoxomarchy.png)
+[![Knoxville, Omarchy: The Omarchy billboard on the bluff](screenshots/walls/3122-knoxomarchy.png)](backgrounds/3122-knoxomarchy.png)
 3122 · Knoxville, Omarchy
 
-![Knoxville: The Sunsphere and the Henley bridge](screenshots/walls/3125-knoxville.png)
+[![Knoxville: The Sunsphere and the Henley bridge](screenshots/walls/3125-knoxville.png)](backgrounds/3125-knoxville.png)
 3125 · Knoxville
 
-![Flipper skyline: The LIMEHAWK sign, the Sunsphere](screenshots/walls/3126-flipperknox.png)
+[![Flipper skyline: The LIMEHAWK sign, the Sunsphere](screenshots/walls/3126-flipperknox.png)](backgrounds/3126-flipperknox.png)
 3126 · Flipper skyline
 
-![Flipper skyline, plain: No sign: towers, stars, Sunsphere](screenshots/walls/3127-flipperknoxplain.png)
+[![Flipper skyline, plain: No sign: towers, stars, Sunsphere](screenshots/walls/3127-flipperknoxplain.png)](backgrounds/3127-flipperknoxplain.png)
 3127 · Flipper skyline, plain
 
-![Flipper skyline, Omarchy: The Omarchy logo in the sign](screenshots/walls/3129-flipperknoxomarchy.png)
+[![Flipper skyline, Omarchy: The Omarchy logo in the sign](screenshots/walls/3129-flipperknoxomarchy.png)](backgrounds/3129-flipperknoxomarchy.png)
 3129 · Flipper skyline, Omarchy
 
-![Door ajar: A lit room through the crack](screenshots/walls/3130-doorlight.png)
+[![Door ajar: A lit room through the crack](screenshots/walls/3130-doorlight.png)](backgrounds/3130-doorlight.png)
 3130 · Door ajar
 
-![Satellite: A dotted pass, one amber light](screenshots/walls/3150-satellite.png)
+[![Satellite: A dotted pass, one amber light](screenshots/walls/3150-satellite.png)](backgrounds/3150-satellite.png)
 3150 · Satellite
 
-![Keyhole: Warm light through a dark door](screenshots/walls/3160-keyhole.png)
+[![Keyhole: Warm light through a dark door](screenshots/walls/3160-keyhole.png)](backgrounds/3160-keyhole.png)
 3160 · Keyhole
 
-![Blinds: A lit room through the slats](screenshots/walls/3170-blinds.png)
+[![Blinds: A lit room through the slats](screenshots/walls/3170-blinds.png)](backgrounds/3170-blinds.png)
 3170 · Blinds
 
-![Radio at night: Only the dial glows](screenshots/walls/3180-darkradio.png)
+[![Radio at night: Only the dial glows](screenshots/walls/3180-darkradio.png)](backgrounds/3180-darkradio.png)
 3180 · Radio at night
 
-![Amp cage: Holes glowing over the tubes](screenshots/walls/3190-ampcage.png)
+[![Amp cage: Holes glowing over the tubes](screenshots/walls/3190-ampcage.png)](backgrounds/3190-ampcage.png)
 3190 · Amp cage
 
-![Drum lamp: Base dark against its light](screenshots/walls/3200-drumlamp.png)
+[![Drum lamp: Base dark against its light](screenshots/walls/3200-drumlamp.png)](backgrounds/3200-drumlamp.png)
 3200 · Drum lamp
 
-![Cat in the window: In profile, a lamp in the room](screenshots/walls/3210-catwindow.png)
+[![Cat in the window: In profile, a lamp in the room](screenshots/walls/3210-catwindow.png)](backgrounds/3210-catwindow.png)
 3210 · Cat in the window
 <!-- /walls:minimal -->
 </details>
@@ -195,88 +195,88 @@ Mostly black. Knoxville at night: downtown and the Sunsphere across the river, a
 
 Hi-fi gear and atomic-age lamps, lit like solid things.
 
-<img src="screenshots/1060-vu.png" alt="A VU meter, its dial glowing amber" width="100%">
+<a href="backgrounds/1060-vu.png"><img src="screenshots/1060-vu.png" alt="A VU meter, its dial glowing amber" width="100%"></a>
 
 <details>
 <summary>All 26 lit objects</summary>
 
 <!-- walls:lit-objects -->
-![EL34: Power tube, heat at its foot](screenshots/walls/1010-tube.png)
+[![EL34: Power tube, heat at its foot](screenshots/walls/1010-tube.png)](backgrounds/1010-tube.png)
 1010 · EL34
 
-![KT88: Coke-bottle tube, heater ablaze](screenshots/walls/1013-kt88.png)
+[![KT88: Coke-bottle tube, heater ablaze](screenshots/walls/1013-kt88.png)](backgrounds/1013-kt88.png)
 1013 · KT88
 
-![12AX7: Preamp tube, twin triodes](screenshots/walls/1016-preamp.png)
+[![12AX7: Preamp tube, twin triodes](screenshots/walls/1016-preamp.png)](backgrounds/1016-preamp.png)
 1016 · 12AX7
 
-![Edison bulb: Spiral filament, brass base](screenshots/walls/1020-bulb.png)
+[![Edison bulb: Spiral filament, brass base](screenshots/walls/1020-bulb.png)](backgrounds/1020-bulb.png)
 1020 · Edison bulb
 
-![TV: Console set, screen aglow](screenshots/walls/1040-tv.png)
+[![TV: Console set, screen aglow](screenshots/walls/1040-tv.png)](backgrounds/1040-tv.png)
 1040 · TV
 
-![Nixie: Four tubes reading 19:58](screenshots/walls/1050-nixie.png)
+[![Nixie: Four tubes reading 19:58](screenshots/walls/1050-nixie.png)](backgrounds/1050-nixie.png)
 1050 · Nixie
 
-![VU: Meter resting at -7](screenshots/walls/1060-vu.png)
+[![VU: Meter resting at -7](screenshots/walls/1060-vu.png)](backgrounds/1060-vu.png)
 1060 · VU
 
-![Reel: Reel-to-reel at 7½ ips](screenshots/walls/1070-reel.png)
+[![Reel: Reel-to-reel at 7½ ips](screenshots/walls/1070-reel.png)](backgrounds/1070-reel.png)
 1070 · Reel
 
-![Record: LP, arm down](screenshots/walls/1080-recorddots.png)
+[![Record: LP, arm down](screenshots/walls/1080-recorddots.png)](backgrounds/1080-recorddots.png)
 1080 · Record
 
-![Speaker: Cone in a bolted frame](screenshots/walls/1090-speakerdots.png)
+[![Speaker: Cone in a bolted frame](screenshots/walls/1090-speakerdots.png)](backgrounds/1090-speakerdots.png)
 1090 · Speaker
 
-![Mic: Ribbed grille in a yoke](screenshots/walls/1100-microphonedots.png)
+[![Mic: Ribbed grille in a yoke](screenshots/walls/1100-microphonedots.png)](backgrounds/1100-microphonedots.png)
 1100 · Mic
 
-![Amp: Tubes on a chassis](screenshots/walls/1110-ampdots.png)
+[![Amp: Tubes on a chassis](screenshots/walls/1110-ampdots.png)](backgrounds/1110-ampdots.png)
 1110 · Amp
 
-![Globe lamp: Opal pendant, lit](screenshots/walls/1120-globelampdots.png)
+[![Globe lamp: Opal pendant, lit](screenshots/walls/1120-globelampdots.png)](backgrounds/1120-globelampdots.png)
 1120 · Globe lamp
 
-![Arc lamp: The Arco: marble block, steel arch](screenshots/walls/1130-arclamp.png)
+[![Arc lamp: The Arco: marble block, steel arch](screenshots/walls/1130-arclamp.png)](backgrounds/1130-arclamp.png)
 1130 · Arc lamp
 
-![Desk fan: Chrome cage and blades](screenshots/walls/1140-deskfan.png)
+[![Desk fan: Chrome cage and blades](screenshots/walls/1140-deskfan.png)](backgrounds/1140-deskfan.png)
 1140 · Desk fan
 
-![Transistor: Pocket radio](screenshots/walls/1150-transistor.png)
+[![Transistor: Pocket radio](screenshots/walls/1150-transistor.png)](backgrounds/1150-transistor.png)
 1150 · Transistor
 
-![Radio: Console, dial lit](screenshots/walls/1160-radiodial.png)
+[![Radio: Console, dial lit](screenshots/walls/1160-radiodial.png)](backgrounds/1160-radiodial.png)
 1160 · Radio
 
-![Magic eye: Tuning tube, amber ring](screenshots/walls/1170-magiceye.png)
+[![Magic eye: Tuning tube, amber ring](screenshots/walls/1170-magiceye.png)](backgrounds/1170-magiceye.png)
 1170 · Magic eye
 
-![Scope: 3:2 Lissajous beam](screenshots/walls/1180-lissajous.png)
+[![Scope: 3:2 Lissajous beam](screenshots/walls/1180-lissajous.png)](backgrounds/1180-lissajous.png)
 1180 · Scope
 
-![Tube top: Heater seen from above](screenshots/walls/1190-tubetop.png)
+[![Tube top: Heater seen from above](screenshots/walls/1190-tubetop.png)](backgrounds/1190-tubetop.png)
 1190 · Tube top
 
-![Ball clock: Nelson clock, ten past ten](screenshots/walls/1220-ballclock.png)
+[![Ball clock: Nelson clock, ten past ten](screenshots/walls/1220-ballclock.png)](backgrounds/1220-ballclock.png)
 1220 · Ball clock
 
-![Hang-It-All: Coat rack, lit balls](screenshots/walls/1230-hangitall.png)
+[![Hang-It-All: Coat rack, lit balls](screenshots/walls/1230-hangitall.png)](backgrounds/1230-hangitall.png)
 1230 · Hang-It-All
 
-![Saturn: Rings in front and behind](screenshots/walls/1240-saturn.png)
+[![Saturn: Rings in front and behind](screenshots/walls/1240-saturn.png)](backgrounds/1240-saturn.png)
 1240 · Saturn
 
-![Moon: Half moon, dithered](screenshots/walls/1250-moon.png)
+[![Moon: Half moon, dithered](screenshots/walls/1250-moon.png)](backgrounds/1250-moon.png)
 1250 · Moon
 
-![Orb: Flexoki's orb on black](screenshots/walls/1260-orb.png)
+[![Orb: Flexoki's orb on black](screenshots/walls/1260-orb.png)](backgrounds/1260-orb.png)
 1260 · Orb
 
-![Chandelier: Sputnik lamp, amber bulbs](screenshots/walls/1270-chandelier.png)
+[![Chandelier: Sputnik lamp, amber bulbs](screenshots/walls/1270-chandelier.png)](backgrounds/1270-chandelier.png)
 1270 · Chandelier
 <!-- /walls:lit-objects -->
 </details>
@@ -285,103 +285,103 @@ Hi-fi gear and atomic-age lamps, lit like solid things.
 
 Flat mid-century textile patterns.
 
-<img src="screenshots/4270-diamondstars.png" alt="Diamond stars: a harlequin print with one amber star" width="100%">
+<a href="backgrounds/4270-diamondstars.png"><img src="screenshots/4270-diamondstars.png" alt="Diamond stars: a harlequin print with one amber star" width="100%"></a>
 
 <details>
 <summary>All 31 prints</summary>
 
 <!-- walls:prints -->
-![Boomerangs: Formica scatter](screenshots/walls/4010-boomerangs.png)
+[![Boomerangs: Formica scatter](screenshots/walls/4010-boomerangs.png)](backgrounds/4010-boomerangs.png)
 4010 · Boomerangs
 
-![Atomic print: Formica starbursts on a lattice](screenshots/walls/4020-atomicprint.png)
+[![Atomic print: Formica starbursts on a lattice](screenshots/walls/4020-atomicprint.png)](backgrounds/4020-atomicprint.png)
 4020 · Atomic print
 
-![Dot pattern: Dots joined by thin lines](screenshots/walls/4030-dotpattern.png)
+[![Dot pattern: Dots joined by thin lines](screenshots/walls/4030-dotpattern.png)](backgrounds/4030-dotpattern.png)
 4030 · Dot pattern
 
-![Stems: Cups, rings and buds](screenshots/walls/4040-stems.png)
+[![Stems: Cups, rings and buds](screenshots/walls/4040-stems.png)](backgrounds/4040-stems.png)
 4040 · Stems
 
-![Crosses: Fading field, one amber](screenshots/walls/4050-crosses.png)
+[![Crosses: Fading field, one amber](screenshots/walls/4050-crosses.png)](backgrounds/4050-crosses.png)
 4050 · Crosses
 
-![Kites: Spars and bowed tails](screenshots/walls/4060-kites.png)
+[![Kites: Spars and bowed tails](screenshots/walls/4060-kites.png)](backgrounds/4060-kites.png)
 4060 · Kites
 
-![Breeze block: Pierced screen wall](screenshots/walls/4080-breezeblock.png)
+[![Breeze block: Pierced screen wall](screenshots/walls/4080-breezeblock.png)](backgrounds/4080-breezeblock.png)
 4080 · Breeze block
 
-![Squircles: Atomic quilt print](screenshots/walls/4100-squircles.png)
+[![Squircles: Atomic quilt print](screenshots/walls/4100-squircles.png)](backgrounds/4100-squircles.png)
 4100 · Squircles
 
-![Teardrops: Drop columns](screenshots/walls/4110-teardrops.png)
+[![Teardrops: Drop columns](screenshots/walls/4110-teardrops.png)](backgrounds/4110-teardrops.png)
 4110 · Teardrops
 
-![Half circles: Disc tiles](screenshots/walls/4120-semicircles.png)
+[![Half circles: Disc tiles](screenshots/walls/4120-semicircles.png)](backgrounds/4120-semicircles.png)
 4120 · Half circles
 
-![Circle screen: Laser-cut lens panel](screenshots/walls/4130-circlescreen.png)
+[![Circle screen: Laser-cut lens panel](screenshots/walls/4130-circlescreen.png)](backgrounds/4130-circlescreen.png)
 4130 · Circle screen
 
-![Star grid: Concave stars, dots](screenshots/walls/4140-stargrid.png)
+[![Star grid: Concave stars, dots](screenshots/walls/4140-stargrid.png)](backgrounds/4140-stargrid.png)
 4140 · Star grid
 
-![Beads: Bead columns](screenshots/walls/4150-beads.png)
+[![Beads: Bead columns](screenshots/walls/4150-beads.png)](backgrounds/4150-beads.png)
 4150 · Beads
 
-![TV shapes: Rounded screens](screenshots/walls/4160-tvshapes.png)
+[![TV shapes: Rounded screens](screenshots/walls/4160-tvshapes.png)](backgrounds/4160-tvshapes.png)
 4160 · TV shapes
 
-![Shippo: Radio grille, gold lenses](screenshots/walls/4170-circlestars.png)
+[![Shippo: Radio grille, gold lenses](screenshots/walls/4170-circlestars.png)](backgrounds/4170-circlestars.png)
 4170 · Shippo
 
-![Quatrefoil: Cathedral radio grille](screenshots/walls/4180-quatrefoil.png)
+[![Quatrefoil: Cathedral radio grille](screenshots/walls/4180-quatrefoil.png)](backgrounds/4180-quatrefoil.png)
 4180 · Quatrefoil
 
-![Skewed blocks: Leaning blocks](screenshots/walls/4190-skewrects.png)
+[![Skewed blocks: Leaning blocks](screenshots/walls/4190-skewrects.png)](backgrounds/4190-skewrects.png)
 4190 · Skewed blocks
 
-![Concave stars: Round speaker grille](screenshots/walls/4200-concavestars.png)
+[![Concave stars: Round speaker grille](screenshots/walls/4200-concavestars.png)](backgrounds/4200-concavestars.png)
 4200 · Concave stars
 
-![Eyes: Concentric ovals](screenshots/walls/4210-eyes.png)
+[![Eyes: Concentric ovals](screenshots/walls/4210-eyes.png)](backgrounds/4210-eyes.png)
 4210 · Eyes
 
-![Harlequin: Nested diamonds](screenshots/walls/4220-harlequin.png)
+[![Harlequin: Nested diamonds](screenshots/walls/4220-harlequin.png)](backgrounds/4220-harlequin.png)
 4220 · Harlequin
 
-![Atom scatter: Boomerangs and atoms](screenshots/walls/4230-atomscatter.png)
+[![Atom scatter: Boomerangs and atoms](screenshots/walls/4230-atomscatter.png)](backgrounds/4230-atomscatter.png)
 4230 · Atom scatter
 
-![Pill chains: Stems swelling into lozenges](screenshots/walls/4250-pillchains.png)
+[![Pill chains: Stems swelling into lozenges](screenshots/walls/4250-pillchains.png)](backgrounds/4250-pillchains.png)
 4250 · Pill chains
 
-![Overprint: Three ribbons, overlapping](screenshots/walls/4260-overprint.png)
+[![Overprint: Three ribbons, overlapping](screenshots/walls/4260-overprint.png)](backgrounds/4260-overprint.png)
 4260 · Overprint
 
-![Diamond stars: Leaning bands, thin stars](screenshots/walls/4270-diamondstars.png)
+[![Diamond stars: Leaning bands, thin stars](screenshots/walls/4270-diamondstars.png)](backgrounds/4270-diamondstars.png)
 4270 · Diamond stars
 
-![Split circles: Halved discs in columns](screenshots/walls/4280-splitcircles.png)
+[![Split circles: Halved discs in columns](screenshots/walls/4280-splitcircles.png)](backgrounds/4280-splitcircles.png)
 4280 · Split circles
 
-![Braun: Ring of holes, ring knob](screenshots/walls/4290-braun.png)
+[![Braun: Ring of holes, ring knob](screenshots/walls/4290-braun.png)](backgrounds/4290-braun.png)
 4290 · Braun
 
-![Table radio: Louvres and a lit dial](screenshots/walls/4300-tableradio.png)
+[![Table radio: Louvres and a lit dial](screenshots/walls/4300-tableradio.png)](backgrounds/4300-tableradio.png)
 4300 · Table radio
 
-![Sunburst fan: Clock-radio slots, amber hub](screenshots/walls/4310-sunburstfan.png)
+[![Sunburst fan: Clock-radio slots, amber hub](screenshots/walls/4310-sunburstfan.png)](backgrounds/4310-sunburstfan.png)
 4310 · Sunburst fan
 
-![Grille cloth: Diamond weave, flecks](screenshots/walls/4320-diamondcloth.png)
+[![Grille cloth: Diamond weave, flecks](screenshots/walls/4320-diamondcloth.png)](backgrounds/4320-diamondcloth.png)
 4320 · Grille cloth
 
-![Wave slats: Rippling grille](screenshots/walls/4330-waveslats.png)
+[![Wave slats: Rippling grille](screenshots/walls/4330-waveslats.png)](backgrounds/4330-waveslats.png)
 4330 · Wave slats
 
-![Expanded metal: Diamond mesh](screenshots/walls/4340-expanded.png)
+[![Expanded metal: Diamond mesh](screenshots/walls/4340-expanded.png)](backgrounds/4340-expanded.png)
 4340 · Expanded metal
 <!-- /walls:prints -->
 </details>
@@ -390,64 +390,64 @@ Flat mid-century textile patterns.
 
 The same world in glyphs.
 
-<img src="screenshots/5040-ampchassis.png" alt="A tube amp with its tubes glowing amber, drawn in ASCII" width="100%">
+<a href="backgrounds/5040-ampchassis.png"><img src="screenshots/5040-ampchassis.png" alt="A tube amp with its tubes glowing amber, drawn in ASCII" width="100%"></a>
 
 <details>
 <summary>All 18 ASCII pieces</summary>
 
 <!-- walls:ascii -->
-![Globe lamp: Opal pendant, lit](screenshots/walls/5010-globelamp.png)
+[![Globe lamp: Opal pendant, lit](screenshots/walls/5010-globelamp.png)](backgrounds/5010-globelamp.png)
 5010 · Globe lamp
 
-![Glyph burst: Starburst of - | / \](screenshots/walls/5020-asciiburst.png)
+[![Glyph burst: Starburst of - | / \](screenshots/walls/5020-asciiburst.png)](backgrounds/5020-asciiburst.png)
 5020 · Glyph burst
 
-![Star horizon: Glyph sky, one ridge](screenshots/walls/5030-starhorizon.png)
+[![Star horizon: Glyph sky, one ridge](screenshots/walls/5030-starhorizon.png)](backgrounds/5030-starhorizon.png)
 5030 · Star horizon
 
-![Amp: Tubes on a chassis](screenshots/walls/5040-ampchassis.png)
+[![Amp: Tubes on a chassis](screenshots/walls/5040-ampchassis.png)](backgrounds/5040-ampchassis.png)
 5040 · Amp
 
-![Dial: Slide-rule radio dial](screenshots/walls/5050-dial.png)
+[![Dial: Slide-rule radio dial](screenshots/walls/5050-dial.png)](backgrounds/5050-dial.png)
 5050 · Dial
 
-![Speaker: Hi-fi cone in glyphs](screenshots/walls/5060-speaker.png)
+[![Speaker: Hi-fi cone in glyphs](screenshots/walls/5060-speaker.png)](backgrounds/5060-speaker.png)
 5060 · Speaker
 
-![Record: LP with the arm down](screenshots/walls/5070-record.png)
+[![Record: LP with the arm down](screenshots/walls/5070-record.png)](backgrounds/5070-record.png)
 5070 · Record
 
-![Mic: Ribbed grille in a yoke](screenshots/walls/5080-microphone.png)
+[![Mic: Ribbed grille in a yoke](screenshots/walls/5080-microphone.png)](backgrounds/5080-microphone.png)
 5080 · Mic
 
-![Needle: The dial pointer alone](screenshots/walls/5090-needle.png)
+[![Needle: The dial pointer alone](screenshots/walls/5090-needle.png)](backgrounds/5090-needle.png)
 5090 · Needle
 
-![Morse: AMBER, last dot lit](screenshots/walls/5100-morse.png)
+[![Morse: AMBER, last dot lit](screenshots/walls/5100-morse.png)](backgrounds/5100-morse.png)
 5100 · Morse
 
-![Wave: Sine in glyphs, amber crest](screenshots/walls/5110-asciiwave.png)
+[![Wave: Sine in glyphs, amber crest](screenshots/walls/5110-asciiwave.png)](backgrounds/5110-asciiwave.png)
 5110 · Wave
 
-![Donut: ASCII torus](screenshots/walls/5120-donut.png)
+[![Donut: ASCII torus](screenshots/walls/5120-donut.png)](backgrounds/5120-donut.png)
 5120 · Donut
 
-![Ridges: ASCII ridgelines](screenshots/walls/5130-ridges.png)
+[![Ridges: ASCII ridgelines](screenshots/walls/5130-ridges.png)](backgrounds/5130-ridges.png)
 5130 · Ridges
 
-![Tube: A power tube in glyphs](screenshots/walls/5140-asciitube.png)
+[![Tube: A power tube in glyphs](screenshots/walls/5140-asciitube.png)](backgrounds/5140-asciitube.png)
 5140 · Tube
 
-![Lava lamp: Wax in glyphs](screenshots/walls/5150-asciilava.png)
+[![Lava lamp: Wax in glyphs](screenshots/walls/5150-asciilava.png)](backgrounds/5150-asciilava.png)
 5150 · Lava lamp
 
-![Saturn: Rings in glyphs](screenshots/walls/5160-asciisaturn.png)
+[![Saturn: Rings in glyphs](screenshots/walls/5160-asciisaturn.png)](backgrounds/5160-asciisaturn.png)
 5160 · Saturn
 
-![Eclipse: Corona combed into strokes](screenshots/walls/5170-asciieclipse.png)
+[![Eclipse: Corona combed into strokes](screenshots/walls/5170-asciieclipse.png)](backgrounds/5170-asciieclipse.png)
 5170 · Eclipse
 
-![Sputnik: Orbits in stroke glyphs](screenshots/walls/5180-asciisputnik.png)
+[![Sputnik: Orbits in stroke glyphs](screenshots/walls/5180-asciisputnik.png)](backgrounds/5180-asciisputnik.png)
 5180 · Sputnik
 <!-- /walls:ascii -->
 </details>
@@ -456,34 +456,34 @@ The same world in glyphs.
 
 Christmas lattice ornaments hung on cords, some with lamps inside, and for Halloween a spider let down on its thread and a jack-o'-lantern, only its carved face glowing in the dark.
 
-<img src="screenshots/6110-jackolantern.png" alt="A jack-o'-lantern in the dark, only its carved face glowing amber" width="100%">
+<a href="backgrounds/6110-jackolantern.png"><img src="screenshots/6110-jackolantern.png" alt="A jack-o'-lantern in the dark, only its carved face glowing amber" width="100%"></a>
 
 <details>
 <summary>All 8 seasonal pieces</summary>
 
 <!-- walls:seasonal -->
-![Ribbed ornament: Ribs pole to pole, a band](screenshots/walls/6010-ornribs.png)
+[![Ribbed ornament: Ribs pole to pole, a band](screenshots/walls/6010-ornribs.png)](backgrounds/6010-ornribs.png)
 6010 · Ribbed ornament
 
-![Wave ornament: S-curved ribs](screenshots/walls/6020-ornwaves.png)
+[![Wave ornament: S-curved ribs](screenshots/walls/6020-ornwaves.png)](backgrounds/6020-ornwaves.png)
 6020 · Wave ornament
 
-![Chevron ornament: Black filament chevrons](screenshots/walls/6030-ornchevrons.png)
+[![Chevron ornament: Black filament chevrons](screenshots/walls/6030-ornchevrons.png)](backgrounds/6030-ornchevrons.png)
 6030 · Chevron ornament
 
-![Arch ornament: Crossing ribs, pointed arches](screenshots/walls/6040-ornarches.png)
+[![Arch ornament: Crossing ribs, pointed arches](screenshots/walls/6040-ornarches.png)](backgrounds/6040-ornarches.png)
 6040 · Arch ornament
 
-![Lantern ornament: A lamp inside, amber through](screenshots/walls/6050-ornlamp.png)
+[![Lantern ornament: A lamp inside, amber through](screenshots/walls/6050-ornlamp.png)](backgrounds/6050-ornlamp.png)
 6050 · Lantern ornament
 
-![Ornaments: All five hung at different heights](screenshots/walls/6060-ornaments.png)
+[![Ornaments: All five hung at different heights](screenshots/walls/6060-ornaments.png)](backgrounds/6060-ornaments.png)
 6060 · Ornaments
 
-![Spider: On its thread, amber eyes](screenshots/walls/6100-spider.png)
+[![Spider: On its thread, amber eyes](screenshots/walls/6100-spider.png)](backgrounds/6100-spider.png)
 6100 · Spider
 
-![Jack-o'-lantern: Only the carved face, glowing in the dark](screenshots/walls/6110-jackolantern.png)
+[![Jack-o'-lantern: Only the carved face, glowing in the dark](screenshots/walls/6110-jackolantern.png)](backgrounds/6110-jackolantern.png)
 6110 · Jack-o'-lantern
 <!-- /walls:seasonal -->
 </details>
