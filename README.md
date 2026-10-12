@@ -90,7 +90,7 @@ Mostly black. Knoxville at night: downtown and the Sunsphere across the river, a
 ![Knoxville at night with the Omarchy logo on a steel billboard in the foreground](screenshots/0005-knoxomarchy.png)
 
 <details>
-<summary>All 19 minimal pieces</summary>
+<summary>All 25 minimal pieces</summary>
 
 <!-- walls:minimal -->
 ![CRT off: One dot, the last scanline](screenshots/walls/3010-crtoff.png)
@@ -177,7 +177,7 @@ Hi-fi gear and atomic-age lamps, lit like solid things.
 ![A VU meter, its dial glowing amber](screenshots/1060-vu.png)
 
 <details>
-<summary>All 28 lit objects</summary>
+<summary>All 26 lit objects</summary>
 
 <!-- walls:lit-objects -->
 ![EL34: Power tube, heat at its foot](screenshots/walls/1010-tube.png)
@@ -267,7 +267,7 @@ Flat mid-century textile patterns.
 ![Diamond stars: a harlequin print with one amber star](screenshots/4270-diamondstars.png)
 
 <details>
-<summary>All 28 prints</summary>
+<summary>All 31 prints</summary>
 
 <!-- walls:prints -->
 ![Boomerangs: Formica scatter](screenshots/walls/4010-boomerangs.png)
@@ -435,7 +435,7 @@ The same world in glyphs.
 
 Christmas lattice ornaments hung on cords, some with lamps inside, and for Halloween a spider let down on its thread and a jack-o'-lantern, only its carved face glowing in the dark.
 
-![A ribbed lattice ornament with a lamp inside, amber through the gaps](screenshots/6050-ornlamp.png)
+![A jack-o'-lantern in the dark, only its carved face glowing amber](screenshots/6110-jackolantern.png)
 
 <details>
 <summary>All 8 seasonal pieces</summary>
