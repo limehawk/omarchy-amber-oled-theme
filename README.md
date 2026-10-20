@@ -509,6 +509,8 @@ Each preview is a third of the real size, one pixel per dot; open any file in [`
 
 Text on the background is 14.6:1 (WCAG AAA). Icons use Yaru-yellow.
 
+Amber is the only accent, so ANSI blue is a warm smoke close to the parchment text. A terminal app that marks its selected row only in blue will show a faint cursor here; one that uses bold or reverse video reads fine.
+
 ![Terminal colours on a sample of Python and git output](screenshots/terminal.png)
 
 Chromium-based browsers take Omarchy's pure-black seed. Chrome builds its own dark palette from it, so its frame is Chrome's darkest grey rather than true black; a browser theme can't go further.
