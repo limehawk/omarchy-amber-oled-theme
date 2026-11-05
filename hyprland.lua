@@ -17,5 +17,6 @@ hl.config({
   },
 })
 
--- Amber OLED: windows fully opaque, so nothing of the wallpaper bleeds through and OLED black stays black.
-o.window({ tag = "default-opacity" }, { opacity = "1 1" })
+-- Amber OLED: every window fully opaque, focused or not, so nothing of the wallpaper bleeds through and OLED black stays black.
+-- Matches all classes, not the default-opacity tag: browsers drop that tag and get their own unfocused 0.985.
+o.window(".*", { opacity = "1 1" })
